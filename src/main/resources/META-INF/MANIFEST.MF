@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Agent-Class: com.agent.LoadedAgent
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+
